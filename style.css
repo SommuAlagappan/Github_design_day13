@@ -1,0 +1,44 @@
+.github{
+    font-size: 40px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:white
+}
+
+.colr{
+    background-color: rgb(47, 61, 70);
+}
+
+
+.temp {
+
+    height: 500px;
+    border: 20px;
+    background-color:rgb(47, 61, 70)  ;
+    border-radius: 40px;
+  }
+
+  .search{
+    height: 40px;
+    border: 5px solid rgb(47, 61, 70) ;
+    background-color:rgb(47, 61, 70) ;
+    border-radius: 20px;
+
+
+  }
+
+  .mini-temp{
+    
+      height: 170px;
+      border-radius: 20px;
+      background-color:rgb(47, 61, 70) ;
+    }
+    
+    .footer{
+      height: 160px;
+      border: 5px solid rgb(47, 61, 70) ;
+      background-color:rgb(47, 61, 70) ;
+      border-radius: 20px;
+  
+  
+    }
+  
